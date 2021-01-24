@@ -27,8 +27,4 @@ Here's a random wikipedia article: %s
     decision,
 )
 
-
 api.update_status(status)
-
-
-print(status)
